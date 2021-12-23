@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/wax/dusty/src/../include/dusty.hpp
+eosio/eosio.hpp
+-
+eosio/asset.hpp
+-
+eosio/transaction.hpp
+-
+eosio/crypto.hpp
+-
+eosio/system.hpp
+-
+math.h
+-
+string
+-
+
+/wax/dusty/src/dusty.cpp
+dusty.hpp
+-
+vector
+-
+

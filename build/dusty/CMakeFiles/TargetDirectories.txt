@@ -1,0 +1,3 @@
+/wax/dusty/build/dusty/CMakeFiles/rebuild_cache.dir
+/wax/dusty/build/dusty/CMakeFiles/dusty.dir
+/wax/dusty/build/dusty/CMakeFiles/edit_cache.dir

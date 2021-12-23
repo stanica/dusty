@@ -1,0 +1,14 @@
+# Target labels
+ dusty_project
+# Source files and their labels
+/wax/dusty/build/CMakeFiles/dusty_project
+/wax/dusty/build/CMakeFiles/dusty_project.rule
+/wax/dusty/build/CMakeFiles/dusty_project-complete.rule
+/wax/dusty/build/dusty_project-prefix/src/dusty_project-stamp/dusty_project-install.rule
+/wax/dusty/build/dusty_project-prefix/src/dusty_project-stamp/dusty_project-mkdir.rule
+/wax/dusty/build/dusty_project-prefix/src/dusty_project-stamp/dusty_project-download.rule
+/wax/dusty/build/dusty_project-prefix/src/dusty_project-stamp/dusty_project-update.rule
+/wax/dusty/build/dusty_project-prefix/src/dusty_project-stamp/dusty_project-patch.rule
+/wax/dusty/build/dusty_project-prefix/src/dusty_project-stamp/dusty_project-configure.rule
+/wax/dusty/build/dusty_project-prefix/src/dusty_project-stamp/dusty_project-build.rule
+/wax/dusty/build/dusty_project-prefix/src/dusty_project-stamp/dusty_project-test.rule
